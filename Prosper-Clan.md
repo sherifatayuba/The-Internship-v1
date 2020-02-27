@@ -4,8 +4,8 @@ ___
 Mayowa Oludoyi <br/>
 DevOps
 ___
-Name <br/>
-Track
+Sherifat Ayuba  <br/>
+Design UI/UX
 ___
 Name <br/>
 Track
